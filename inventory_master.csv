@@ -1,0 +1,26 @@
+Part_Number,Description,Category,Quantity
+PRT-001,Steel Beam,Structural,120
+PRT-002,Galvanised Sheet,Structural,450
+PRT-003,Rebar 12 mm,Structural,760
+PRT-004,Concrete Anchor,Bolting,390
+PRT-005,M20 Hex Bolt,Bolting,1 250
+PRT-006,M20 Hex Nut,Bolting,1 260
+PRT-007,High-Temp Gasket,Seals,310
+PRT-008,Hydraulic Hose 1″,Fluid,180
+PRT-009,Bolt Pack (50 pcs),Kitting,600
+PRT-010,Aluminium Plate 5 mm,Structural,95
+PRT-011,Stainless Valve 2″,Fluid,75
+PRT-012,PTFE Seal Tape,Seals,940
+PRT-013,Copper Washer 10 mm,Seals,2 100
+PRT-014,Linear Bearing 20 mm,Motion,140
+PRT-015,Pressure Relief Valve 1″,Fluid,55
+PRT-016,Roller Chain #60,Motion,320
+PRT-017,Servo Motor 1 kW,Motion,22
+PRT-018,Limit Switch IP67,Controls,260
+PRT-019,PLC I/O Card 16-ch,Controls,48
+PRT-020,Heat-Shrink Tubing Kit,Electrical,530
+PRT-021,Cable Gland M25,Electrical,670
+PRT-022,RJ45 Patch Lead 1 m,Electrical,410
+PRT-023,Industrial Fuse 10 A,Electrical,880
+PRT-024,Grease Cartridge 400 g,Lubricants,240
+PRT-025,Thread-locker 50 ml,Lubricants,310
